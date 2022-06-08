@@ -441,8 +441,8 @@ header nav li:last-of-type a{
     display: inline-flex;
    align-items: center;
     justify-content: space-between;
-    margin-bottom: 25px;
-    margin-right: 10px;
+    margin-bottom: 24px;
+    margin-right: 12px;
 }
 
 
