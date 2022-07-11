@@ -1,0 +1,9 @@
+
+@media only screen and (max-width: 768px) {
+
+}
+@media only screen and (max-width: 414px) {
+header {
+    background-color: aquamarine;
+}
+}
